@@ -1,6 +1,6 @@
 :root {
-  --primary: #b6895b;
-  --bg: #010101;
+  --primary: #6f49ca;
+  --bg: #6d07b14d;
 }
 
 * {
@@ -15,7 +15,7 @@
 body {
   font-family: "Poppins", sans-serif;
   background-color: var(--bg);
-  color: #fff;
+  color: #0f0e0c;
   min-height: 5000px;
 }
 
@@ -25,7 +25,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 1.4rem 7%;
-  background-color: rgba(1, 1, 1, 0.8);
+  background-color: rgba(92, 8, 209, 0.8);
   border-bottom: 1px solid #513c28;
   position: fixed;
   top: 0;
@@ -36,7 +36,7 @@ body {
 .navbar .navbar-logo {
   font-size: 2rem;
   font-weight: 700;
-  color: #fff;
+  color: #e4dcdc;
   font-style: italic;
 }
 .navbar .navbar-logo span {
